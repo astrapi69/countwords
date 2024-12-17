@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+##################
+# intellij files #
+##################
+*.iws
+*.iml
+*.ipr
+!.idea/runConfigurations
+.idea/**
+.idea/*.*
+
 # C extensions
 *.so
 
